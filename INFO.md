@@ -1,2 +1,0 @@
-Something important
-Hello, Hexlet
